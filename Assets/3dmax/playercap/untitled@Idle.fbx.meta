@@ -1,0 +1,375 @@
+fileFormatVersion: 2
+guid: 339a41c69e1fc3843add36c471b5c6e6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 10152_WomensScarf_v01
+    100002: Armature
+    100004: Armature.001
+    100006: body_Circle.001
+    100008: Bone
+    100010: Bone.001
+    100012: Bone.001_end
+    100014: Bone.002
+    100016: Bone.002_end
+    100018: Camera
+    100020: Camera01
+    100022: Camera01.001
+    100024: Camera01.Target
+    100026: Camera01.Target.001
+    100028: Cube
+    100030: handgrip1.001
+    100032: hard01_Circle.006
+    100034: Lamp
+    100036: Mesh.001
+    100038: Mesh.002_Mesh.000
+    100040: Mesh.003_CUMesh.003
+    100042: Mesh.004_CUMesh.001
+    100044: Mesh.005_CUMesh.002
+    100046: Mesh_CUMesh
+    100048: mixamorig:Head
+    100050: mixamorig:HeadTop_End
+    100052: mixamorig:HeadTop_End_end
+    100054: mixamorig:Hips
+    100056: mixamorig:LeftArm
+    100058: mixamorig:LeftFoot
+    100060: mixamorig:LeftForeArm
+    100062: mixamorig:LeftHand
+    100064: mixamorig:LeftHandIndex1
+    100066: mixamorig:LeftHandIndex2
+    100068: mixamorig:LeftHandIndex3
+    100070: mixamorig:LeftHandIndex4
+    100072: mixamorig:LeftHandIndex4_end
+    100074: mixamorig:LeftLeg
+    100076: mixamorig:LeftShoulder
+    100078: mixamorig:LeftToe_End
+    100080: mixamorig:LeftToe_End_end
+    100082: mixamorig:LeftToeBase
+    100084: mixamorig:LeftUpLeg
+    100086: mixamorig:Neck
+    100088: mixamorig:RightArm
+    100090: mixamorig:RightFoot
+    100092: mixamorig:RightForeArm
+    100094: mixamorig:RightHand
+    100096: mixamorig:RightHandIndex1
+    100098: mixamorig:RightHandIndex2
+    100100: mixamorig:RightHandIndex3
+    100102: mixamorig:RightHandIndex4
+    100104: mixamorig:RightHandIndex4_end
+    100106: mixamorig:RightLeg
+    100108: mixamorig:RightShoulder
+    100110: mixamorig:RightToe_End
+    100112: mixamorig:RightToe_End_end
+    100114: mixamorig:RightToeBase
+    100116: mixamorig:RightUpLeg
+    100118: mixamorig:Spine
+    100120: mixamorig:Spine1
+    100122: mixamorig:Spine2
+    100124: NurbsCircle
+    100126: NurbsCircle.001
+    100128: NurbsCircle.002
+    100130: PAM_Circle.000
+    100132: Plane
+    100134: Plane.001_Plane.005
+    100136: Plane.002
+    100138: shoess_Circle.003
+    100140: shorts_Circle.010
+    100142: //RootNode
+    400000: 10152_WomensScarf_v01
+    400002: Armature
+    400004: Armature.001
+    400006: body_Circle.001
+    400008: Bone
+    400010: Bone.001
+    400012: Bone.001_end
+    400014: Bone.002
+    400016: Bone.002_end
+    400018: Camera
+    400020: Camera01
+    400022: Camera01.001
+    400024: Camera01.Target
+    400026: Camera01.Target.001
+    400028: Cube
+    400030: handgrip1.001
+    400032: hard01_Circle.006
+    400034: Lamp
+    400036: Mesh.001
+    400038: Mesh.002_Mesh.000
+    400040: Mesh.003_CUMesh.003
+    400042: Mesh.004_CUMesh.001
+    400044: Mesh.005_CUMesh.002
+    400046: Mesh_CUMesh
+    400048: mixamorig:Head
+    400050: mixamorig:HeadTop_End
+    400052: mixamorig:HeadTop_End_end
+    400054: mixamorig:Hips
+    400056: mixamorig:LeftArm
+    400058: mixamorig:LeftFoot
+    400060: mixamorig:LeftForeArm
+    400062: mixamorig:LeftHand
+    400064: mixamorig:LeftHandIndex1
+    400066: mixamorig:LeftHandIndex2
+    400068: mixamorig:LeftHandIndex3
+    400070: mixamorig:LeftHandIndex4
+    400072: mixamorig:LeftHandIndex4_end
+    400074: mixamorig:LeftLeg
+    400076: mixamorig:LeftShoulder
+    400078: mixamorig:LeftToe_End
+    400080: mixamorig:LeftToe_End_end
+    400082: mixamorig:LeftToeBase
+    400084: mixamorig:LeftUpLeg
+    400086: mixamorig:Neck
+    400088: mixamorig:RightArm
+    400090: mixamorig:RightFoot
+    400092: mixamorig:RightForeArm
+    400094: mixamorig:RightHand
+    400096: mixamorig:RightHandIndex1
+    400098: mixamorig:RightHandIndex2
+    400100: mixamorig:RightHandIndex3
+    400102: mixamorig:RightHandIndex4
+    400104: mixamorig:RightHandIndex4_end
+    400106: mixamorig:RightLeg
+    400108: mixamorig:RightShoulder
+    400110: mixamorig:RightToe_End
+    400112: mixamorig:RightToe_End_end
+    400114: mixamorig:RightToeBase
+    400116: mixamorig:RightUpLeg
+    400118: mixamorig:Spine
+    400120: mixamorig:Spine1
+    400122: mixamorig:Spine2
+    400124: NurbsCircle
+    400126: NurbsCircle.001
+    400128: NurbsCircle.002
+    400130: PAM_Circle.000
+    400132: Plane
+    400134: Plane.001_Plane.005
+    400136: Plane.002
+    400138: shoess_Circle.003
+    400140: shorts_Circle.010
+    400142: //RootNode
+    2000000: Camera
+    2000002: Camera01
+    2000004: Camera01.001
+    2100000: handgrip.001
+    2100002: Metal_Dark_Gold.001
+    2100004: Metal_Chrome.001
+    2100006: No Name
+    2300000: handgrip1.001
+    2300002: NurbsCircle
+    2300004: NurbsCircle.001
+    2300006: NurbsCircle.002
+    3300000: handgrip1.001
+    3300002: NurbsCircle
+    3300004: NurbsCircle.001
+    3300006: NurbsCircle.002
+    4300000: handgrip1.001
+    4300002: shoess_Circle.003
+    4300004: Cube
+    4300006: Mesh.002_Mesh.000
+    4300008: Mesh_CUMesh
+    4300010: Plane
+    4300012: body_Circle.001
+    4300014: Mesh.005_CUMesh.002
+    4300016: Mesh.004_CUMesh.001
+    4300018: hard01_Circle.006
+    4300020: Mesh.003_CUMesh.003
+    4300022: Mesh.001
+    4300024: 10152_WomensScarf_v01
+    4300026: PAM_Circle.000
+    4300028: Plane.001_Plane.005
+    4300030: Plane.002
+    4300032: shorts_Circle.010
+    4300034: NurbsCircle.002
+    4300036: NurbsCircle
+    4300038: NurbsCircle.001
+    7400000: Idle
+    7400002: Camera01.Target.001|blade base|Take 001|BaseLayer.001
+    7400004: Camera01.Target.001|blade|Take 001|BaseLayer
+    7400006: Camera01.Target.001|blade|Take 001|BaseLayer.001
+    7400008: Camera01.Target.001|Camera01.001|Take 001|BaseLayer
+    7400010: Camera01.Target.001|Camera01.Target.001|Take 001|BaseLayer
+    7400012: Camera01.Target.001|Camera01.Target|Take 001|BaseLayer
+    7400014: Camera01.Target.001|Camera01|Take 001|BaseLayer
+    7400016: Camera01.Target.001|handgrip1.001|Take 001|BaseLayer
+    7400018: Camera01.Target.001|handgrip1|Take 001|BaseLayer
+    7400020: Camera01.Target.001|handgrip2|Take 001|BaseLayer
+    7400022: Camera01.Target.001|handgrip2|Take 001|BaseLayer.001
+    7400024: Camera01.Target.001|tsuba|Take 001|BaseLayer
+    7400026: Camera01.Target.001|tsuba|Take 001|BaseLayer.001
+    7400028: Camera01.001|blade base|Take 001|BaseLayer
+    7400030: Camera01.001|blade base|Take 001|BaseLayer.001
+    7400032: Camera01.001|blade|Take 001|BaseLayer
+    7400034: Camera01.001|blade|Take 001|BaseLayer.001
+    7400036: Camera01.001|Camera01.001|Take 001|BaseLayer
+    7400038: Camera01.001|Camera01.Target.001|Take 001|BaseLayer
+    7400040: Camera01.001|Camera01.Target|Take 001|BaseLayer
+    7400042: Camera01.001|Camera01|Take 001|BaseLayer
+    7400044: Camera01.001|handgrip1.001|Take 001|BaseLayer
+    7400046: Camera01.001|handgrip1|Take 001|BaseLayer
+    7400048: Camera01.001|handgrip2|Take 001|BaseLayer
+    7400050: Camera01.001|handgrip2|Take 001|BaseLayer.001
+    7400052: Camera01.001|tsuba|Take 001|BaseLayer
+    7400054: Camera01.001|tsuba|Take 001|BaseLayer.001
+    7400056: Armature|Armature|mixamo.com|Layer0
+    7400058: Armature|blade base|Take 001|BaseLayer
+    7400060: Armature|blade base|Take 001|BaseLayer.001
+    7400062: Armature|blade|Take 001|BaseLayer
+    7400064: Armature|blade|Take 001|BaseLayer.001
+    7400066: Armature|Camera01.001|Take 001|BaseLayer
+    7400068: Armature|Camera01.Target.001|Take 001|BaseLayer
+    7400070: Armature|Camera01.Target|Take 001|BaseLayer
+    7400072: Armature|Camera01|Take 001|BaseLayer
+    7400074: Armature|handgrip1.001|Take 001|BaseLayer
+    7400076: Armature|handgrip1|Take 001|BaseLayer
+    7400078: Armature|handgrip2|Take 001|BaseLayer
+    7400080: Armature|handgrip2|Take 001|BaseLayer.001
+    7400082: Armature|tsuba|Take 001|BaseLayer
+    7400084: Armature|tsuba|Take 001|BaseLayer.001
+    7400086: handgrip1.001|blade base|Take 001|BaseLayer
+    7400088: handgrip1.001|blade base|Take 001|BaseLayer.001
+    7400090: handgrip1.001|blade|Take 001|BaseLayer
+    7400092: handgrip1.001|blade|Take 001|BaseLayer.001
+    7400094: handgrip1.001|Camera01.001|Take 001|BaseLayer
+    7400096: handgrip1.001|Camera01.Target.001|Take 001|BaseLayer
+    7400098: handgrip1.001|Camera01.Target|Take 001|BaseLayer
+    7400100: handgrip1.001|Camera01|Take 001|BaseLayer
+    7400102: handgrip1.001|handgrip1.001|Take 001|BaseLayer
+    7400104: handgrip1.001|handgrip1|Take 001|BaseLayer
+    7400106: handgrip1.001|handgrip2|Take 001|BaseLayer
+    7400108: handgrip1.001|handgrip2|Take 001|BaseLayer.001
+    7400110: handgrip1.001|tsuba|Take 001|BaseLayer
+    7400112: handgrip1.001|tsuba|Take 001|BaseLayer.001
+    7400114: Camera01.Target|blade base|Take 001|BaseLayer
+    7400116: Camera01.Target|blade base|Take 001|BaseLayer.001
+    7400118: Camera01.Target|blade|Take 001|BaseLayer
+    7400120: Camera01.Target|blade|Take 001|BaseLayer.001
+    7400122: Camera01.Target|Camera01.001|Take 001|BaseLayer
+    7400124: Camera01.Target|Camera01.Target.001|Take 001|BaseLayer
+    7400126: Camera01.Target|Camera01.Target|Take 001|BaseLayer
+    7400128: Camera01.Target|Camera01|Take 001|BaseLayer
+    7400130: Camera01.Target|handgrip1.001|Take 001|BaseLayer
+    7400132: Camera01.Target|handgrip1|Take 001|BaseLayer
+    7400134: Camera01.Target|handgrip2|Take 001|BaseLayer
+    7400136: Camera01.Target|handgrip2|Take 001|BaseLayer.001
+    7400138: Camera01.Target|tsuba|Take 001|BaseLayer
+    7400140: Camera01.Target|tsuba|Take 001|BaseLayer.001
+    7400142: Camera01|blade base|Take 001|BaseLayer
+    7400144: Camera01|blade base|Take 001|BaseLayer.001
+    7400146: Camera01|blade|Take 001|BaseLayer
+    7400148: Camera01|blade|Take 001|BaseLayer.001
+    7400150: Camera01|Camera01.001|Take 001|BaseLayer
+    7400152: Camera01|Camera01.Target.001|Take 001|BaseLayer
+    7400154: Camera01|Camera01.Target|Take 001|BaseLayer
+    7400156: Camera01|Camera01|Take 001|BaseLayer
+    7400158: Camera01|handgrip1.001|Take 001|BaseLayer
+    7400160: Camera01|handgrip1|Take 001|BaseLayer
+    7400162: Camera01|handgrip2|Take 001|BaseLayer
+    7400164: Camera01|handgrip2|Take 001|BaseLayer.001
+    7400166: Camera01|tsuba|Take 001|BaseLayer
+    7400168: Camera01|tsuba|Take 001|BaseLayer.001
+    7400170: mixamo.com
+    9500000: //RootNode
+    10800000: Lamp
+    13700000: 10152_WomensScarf_v01
+    13700002: body_Circle.001
+    13700004: Cube
+    13700006: hard01_Circle.006
+    13700008: Mesh.001
+    13700010: Mesh.002_Mesh.000
+    13700012: Mesh.003_CUMesh.003
+    13700014: Mesh.004_CUMesh.001
+    13700016: Mesh.005_CUMesh.002
+    13700018: Mesh_CUMesh
+    13700020: PAM_Circle.000
+    13700022: Plane
+    13700024: Plane.001_Plane.005
+    13700026: Plane.002
+    13700028: shoess_Circle.003
+    13700030: shorts_Circle.010
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
