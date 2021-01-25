@@ -1,0 +1,24 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class earth_showget_2 : MonoBehaviour
+{
+    public GameObject get;
+    // Start is called before the first frame update
+    void Start()
+    {
+        
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+
+        if (player.sceneearth_m2_accept == false && player.sceneearth_m1 == true)
+        {
+            get.SetActive(true);
+        }
+        else { get.SetActive(false); }
+    }
+}

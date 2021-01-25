@@ -1,0 +1,361 @@
+fileFormatVersion: 2
+guid: afa6e4c13c4f92747b842af7b8d1e40d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: a3:barril11
+    100002: a3:barrils
+    100004: a3:benchs
+    100006: a3:fence
+    100008: a3:fence85
+    100010: a3:fence86
+    100012: a3:floor
+    100014: a3:group13
+    100016: a3:group14
+    100018: a3:group17
+    100020: a3:group18
+    100022: a3:group19
+    100024: a3:lamps
+    100026: a3:pCube425
+    100028: a3:pCube425 1
+    100030: a3:pCube426
+    100032: a3:pCube426 1
+    100034: a3:pCube427
+    100036: a3:pCube427 1
+    100038: a3:pCube428
+    100040: a3:pCube428 1
+    100042: a3:windows
+    100044: air
+    100046: barrils
+    100048: benchs
+    100050: BuildingRender:barril9
+    100052: BuildingRender:Building1:BuildingRender2:Lampara17
+    100054: BuildingRender:Building1:HousesRender:HousesRender:pCube425
+    100056: BuildingRender:Building1:HousesRender:HousesRender:win9
+    100058: chimney2
+    100060: detailsstructure1
+    100062: DockRender:becnh8
+    100064: DockRender:becnh88
+    100066: door
+    100068: //RootNode
+    100070: fence
+    100072: fence85
+    100074: fence86
+    100076: fence87
+    100078: fence88
+    100080: fence89
+    100082: fence90
+    100084: fence91
+    100086: fence92
+    100088: group2
+    100090: group3
+    100092: lamp19
+    100094: lamp20
+    100096: Lampara18
+    100098: Lampara18 1
+    100100: Lampara19
+    100102: Lamps
+    100104: lamps
+    100106: laterals
+    100108: noguns8
+    100110: pCube425
+    100112: post
+    100114: structure
+    100116: tire
+    100118: wanted
+    100120: win9
+    100122: wins
+    100124: wins1
+    400000: a3:barril11
+    400002: a3:barrils
+    400004: a3:benchs
+    400006: a3:fence
+    400008: a3:fence85
+    400010: a3:fence86
+    400012: a3:floor
+    400014: a3:group13
+    400016: a3:group14
+    400018: a3:group17
+    400020: a3:group18
+    400022: a3:group19
+    400024: a3:lamps
+    400026: a3:pCube425
+    400028: a3:pCube425 1
+    400030: a3:pCube426
+    400032: a3:pCube426 1
+    400034: a3:pCube427
+    400036: a3:pCube427 1
+    400038: a3:pCube428
+    400040: a3:pCube428 1
+    400042: a3:windows
+    400044: air
+    400046: barrils
+    400048: benchs
+    400050: BuildingRender:barril9
+    400052: BuildingRender:Building1:BuildingRender2:Lampara17
+    400054: BuildingRender:Building1:HousesRender:HousesRender:pCube425
+    400056: BuildingRender:Building1:HousesRender:HousesRender:win9
+    400058: chimney2
+    400060: detailsstructure1
+    400062: DockRender:becnh8
+    400064: DockRender:becnh88
+    400066: door
+    400068: //RootNode
+    400070: fence
+    400072: fence85
+    400074: fence86
+    400076: fence87
+    400078: fence88
+    400080: fence89
+    400082: fence90
+    400084: fence91
+    400086: fence92
+    400088: group2
+    400090: group3
+    400092: lamp19
+    400094: lamp20
+    400096: Lampara18
+    400098: Lampara18 1
+    400100: Lampara19
+    400102: Lamps
+    400104: lamps
+    400106: laterals
+    400108: noguns8
+    400110: pCube425
+    400112: post
+    400114: structure
+    400116: tire
+    400118: wanted
+    400120: win9
+    400122: wins
+    400124: wins1
+    2100000: lambert5
+    2100002: lambert8
+    2100004: lambert12
+    2100006: blinn3
+    2100008: lambert1
+    2100010: lambert4
+    2100012: lambert3
+    2100014: lambert7
+    2100016: lambert2
+    2100018: blinn1
+    2100020: blinn4
+    2100022: lambert11
+    2100024: lambert6
+    2100026: lambert10
+    2100028: lambert13
+    2100030: blinn2
+    2100032: blinn5
+    2100034: lambert9
+    2300000: a3:barril11
+    2300002: a3:fence85
+    2300004: a3:fence86
+    2300006: a3:floor
+    2300008: a3:pCube425
+    2300010: a3:pCube425 1
+    2300012: a3:pCube426
+    2300014: a3:pCube426 1
+    2300016: a3:pCube427
+    2300018: a3:pCube427 1
+    2300020: a3:pCube428
+    2300022: a3:pCube428 1
+    2300024: air
+    2300026: BuildingRender:barril9
+    2300028: BuildingRender:Building1:BuildingRender2:Lampara17
+    2300030: BuildingRender:Building1:HousesRender:HousesRender:pCube425
+    2300032: BuildingRender:Building1:HousesRender:HousesRender:win9
+    2300034: chimney2
+    2300036: detailsstructure1
+    2300038: DockRender:becnh8
+    2300040: DockRender:becnh88
+    2300042: door
+    2300044: fence85
+    2300046: fence86
+    2300048: fence87
+    2300050: fence88
+    2300052: fence89
+    2300054: fence90
+    2300056: fence91
+    2300058: fence92
+    2300060: lamp19
+    2300062: lamp20
+    2300064: Lampara18
+    2300066: Lampara18 1
+    2300068: Lampara19
+    2300070: noguns8
+    2300072: pCube425
+    2300074: post
+    2300076: structure
+    2300078: tire
+    2300080: wanted
+    2300082: win9
+    3300000: a3:barril11
+    3300002: a3:fence85
+    3300004: a3:fence86
+    3300006: a3:floor
+    3300008: a3:pCube425
+    3300010: a3:pCube425 1
+    3300012: a3:pCube426
+    3300014: a3:pCube426 1
+    3300016: a3:pCube427
+    3300018: a3:pCube427 1
+    3300020: a3:pCube428
+    3300022: a3:pCube428 1
+    3300024: air
+    3300026: BuildingRender:barril9
+    3300028: BuildingRender:Building1:BuildingRender2:Lampara17
+    3300030: BuildingRender:Building1:HousesRender:HousesRender:pCube425
+    3300032: BuildingRender:Building1:HousesRender:HousesRender:win9
+    3300034: chimney2
+    3300036: detailsstructure1
+    3300038: DockRender:becnh8
+    3300040: DockRender:becnh88
+    3300042: door
+    3300044: fence85
+    3300046: fence86
+    3300048: fence87
+    3300050: fence88
+    3300052: fence89
+    3300054: fence90
+    3300056: fence91
+    3300058: fence92
+    3300060: lamp19
+    3300062: lamp20
+    3300064: Lampara18
+    3300066: Lampara18 1
+    3300068: Lampara19
+    3300070: noguns8
+    3300072: pCube425
+    3300074: post
+    3300076: structure
+    3300078: tire
+    3300080: wanted
+    3300082: win9
+    4300000: door
+    4300002: post
+    4300004: structure
+    4300006: chimney2
+    4300008: wanted
+    4300010: air
+    4300012: noguns8
+    4300014: a3:floor
+    4300016: a3:fence85
+    4300018: a3:fence86
+    4300020: fence85
+    4300022: fence86
+    4300024: fence87
+    4300026: fence88
+    4300028: fence89
+    4300030: fence90
+    4300032: fence91
+    4300034: fence92
+    4300036: tire
+    4300038: lamp20
+    4300040: lamp19
+    4300042: Lampara18
+    4300044: Lampara18
+    4300046: win9
+    4300048: BuildingRender:Building1:HousesRender:HousesRender:win9
+    4300050: a3:barril11
+    4300052: BuildingRender:barril9
+    4300054: pCube425
+    4300056: BuildingRender:Building1:HousesRender:HousesRender:pCube425
+    4300058: a3:pCube427
+    4300060: a3:pCube425
+    4300062: a3:pCube426
+    4300064: a3:pCube428
+    4300066: a3:pCube427
+    4300068: a3:pCube425
+    4300070: a3:pCube426
+    4300072: a3:pCube428
+    4300074: DockRender:becnh88
+    4300076: DockRender:becnh8
+    4300078: BuildingRender:Building1:BuildingRender2:Lampara17
+    4300080: Lampara19
+    4300082: detailsstructure1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
