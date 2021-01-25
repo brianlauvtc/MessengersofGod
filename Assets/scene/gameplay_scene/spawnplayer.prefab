@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8166934357069758708
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8166934357069758710}
+  - component: {fileID: 8166934357069758711}
+  m_Layer: 0
+  m_Name: spawnplayer
+  m_TagString: cameralookat
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8166934357069758710
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8166934357069758708}
+  m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: 91.21, y: 5.07, z: 85.19}
+  m_LocalScale: {x: 96.626, y: 96.626, z: 96.626}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+--- !u!114 &8166934357069758711
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8166934357069758708}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b7fc9f6e697cbb4d9230dfbcf550c4f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playershooter: {fileID: 6936801066572267108, guid: f77708656df9a90439643398a8945fd6,
+    type: 3}
+  playermage: {fileID: 2556609234247939011, guid: ce5e5831787d632488ede211ab8d8f01,
+    type: 3}
+  playergunner: {fileID: 5467887357227456344, guid: 757d927b1caa3c74581edb6d01c4f58a,
+    type: 3}
+  playerwarrior: {fileID: 7368096654948636194, guid: 0487ae69619416a459439b4eacadbeb6,
+    type: 3}
+  inventory_canvas: {fileID: 0}
+  CharacterInformationCanvas: {fileID: 0}
+  hkl: {fileID: 0}
+  inventory: {fileID: 0}
+  p: {fileID: 0}
+  spawnobjectthis: {fileID: 8166934357069758708}
+  map: {fileID: 0}
+  i: 2

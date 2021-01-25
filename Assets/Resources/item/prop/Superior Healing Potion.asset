@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95445799ac8693b45bb4b39af4311574, type: 3}
+  m_Name: Superior Healing Potion
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 699ea7a2d15c8c64ab713e3196ff3d02, type: 3}
+  Itemname: Superior Healing Potion
+  introduction: It can instantly restore 100 points of HP
+  buyprice: 70
+  sell_price: 40
+  Type: 0
+  Restoretype: 0
+  restore: 100
+  hp_bonus: 0
+  Defense_bonus: 0
+  Equipmenttype: 0
+  damage_bonus: 0
+  Weapontype: 0
